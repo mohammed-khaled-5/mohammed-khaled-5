@@ -14,9 +14,6 @@
         <a href="mailto:mohammed55230@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
       </p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-khaled-5&theme=vision-friendly-dark&layout=compact&hide_border=true" alt="Top Languages" />
-    </td>
   </tr>
 </table>
 
@@ -52,15 +49,3 @@
 * ☕ **Red Hat App Dev I:** Java EE (AD183)
 * 🐧 **Red Hat System Administration I** (RH124)
 
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-khaled-5&show_icons=true&theme=transparent&hide_border=true" alt="Mohammed's Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohammed-khaled-5&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohammed-khaled-5&icon=0&color=0" alt="Visitor Count" />
-</p>
